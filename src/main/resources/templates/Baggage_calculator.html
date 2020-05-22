@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Baggage_calculator</title>
+</head>
+<link href="https://cdn.bootcss.com/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<style>
+</style>
+<body>
+<div class="row">
+    <div class="col-sm-5">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">乘客信息</h5>
+                <form class="form-horizontal" th:action="@{/Baggage_calculator/result}" method="post">
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">座舱类型</label>
+                        <div class="col-sm-6">
+                            <select class="form-control" name="Cabin">
+                                <option th:value="FirstClass">头等舱</option>
+                                <option th:value="BusinessClass">商务舱</option>
+                                <option th:value="EnjoyEconomyClass">悦享经济舱</option>
+                                <option th:value="SuperEconomyClass">超级经济舱</option>
+                                <option th:value="EconomyClass">经济舱</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">旅客类型</label>
+                        <div class="col-sm-6">
+                            <select class="form-control" name="PassengerType">
+                                <option th:value="TypeOne">成人或儿童客票</option>
+                                <option th:value="TypeTwo">婴儿客票</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">会员类型</label>
+                        <div class="col-sm-6">
+                            <select class="form-control" name="PassengerLevel">
+                                <option th:value="Normal">普通乘客</option>
+                                <option th:value="classOne">凤凰知音终身白金卡、白金卡</option>
+                                <option th:value="classTwo">凤凰知音金卡、银卡旅客</option>
+                                <option th:value="classThree">星空联盟金卡旅客</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">航班类型</label>
+                        <div class="col-sm-6">
+                            <select class="form-control" name="Region">
+                                <option value="AreaZero">国内航班</option>
+                                <option value="AreaOne">区域一</option>
+                                <option value="AreaTwo">区域二</option>
+                                <option value="AreaThree">区域三</option>
+                                <option value="AreaFour">区域四</option>
+                                <option value="AreaFive">区域五</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">票价</label>
+                        <div class="col-sm-6">
+                            <input type="number" class="form-control" id="price" name="price">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">开始计算</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-5">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">添加行李</h5>
+                    <h2><a class="btn btn-sm btn-success" href="baggage" th:href="@{/Baggage_calculator/addBaggages}">添加行李</a> </h2>
+                    <div class="table-responsive">
+                        <table class="table table-striped table-sm">
+                            <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>长</th>
+                                <th>宽</th>
+                                <th>高</th>
+                                <th>重量</th>
+                                <th>操作</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr th:each="baggage:${baggages}">
+                                <td th:text="${baggage.id}"></td>
+                                <td th:text="${baggage.length}"></td>
+                                <td th:text="${baggage.width}"></td>
+                                <td th:text="${baggage.height}"></td>
+                                <td th:text="${baggage.weight}"></td>
+                                <td>
+                                    <button class="btn-sm btn-danger">删除</button>
+                                </td>
+                            </tr>
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                <div class="col-sm-10">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">区域信息</h5>
+                            <h6>区域一：美洲（除美国/加拿大外）/加勒比海地区与欧洲/非洲/中东/亚洲/西南太平洋之间的航
+                                线；
+                            </h6>
+                            <h6>区域二：欧洲/中东与非洲/亚洲/西南太平洋之间航线；日本与西南太平洋之间航线；
+                                日本/西南太平洋与亚洲（不含日本及西南太平洋）/非洲之间航线；
+                            </h6>
+                            <h6>区域三：加拿大与美洲（除美国/加拿大外）/加勒比海地区/欧洲/非洲/中东/亚洲/西南太平洋之间
+                                航线；
+                            </h6>
+                            <h6>区域四：美国（含夏威夷）与美洲（除美国外）/加勒比海地区/欧洲/非洲/中东/亚洲/西南太平洋
+                                之间航线；
+                            </h6>
+                            <h6>区域五：非洲与亚洲（除日本外)之间航线；欧洲与中东之间航线；亚洲（除日本)内航线；
+                                美洲（除美国/加拿大）及加勒比海地区内航线；上述未列明的航线;
+                            </h6>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+</body>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</html>

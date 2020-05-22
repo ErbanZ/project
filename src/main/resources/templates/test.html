@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<link href="https://cdn.bootcss.com/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<body>
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label>电话</label>
+
+                    <div id="telNum" class="input-group" >
+                        <input type="password" class="form-control mx-sm-3 mb-2" id="exampleInputPassword1">
+                        <span class="input-group-btn">
+                <button id="addNum" class="btn btn-default btn-sm" type="button">+</button>
+            </span>
+                    </div><!-- /input-group -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-offset-2 col-sm-10">
+    <button class="col-sm-offset-2 btn btn-primary btn-sm" data-toggle="modal" data-target="#myModal">
+        添加行李
+    </button>
+</div>
+
+
+<!-- 模态框（Modal） -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="myModalLabel">
+                    添加行李
+                </h5>
+            </div>
+            <div class="modal-body">
+                <form class="form-inline">
+                    <div class="form-group">
+                        <label>输入行李的长宽高</label>
+                        <div class="row">
+                            <div id="baggage" class="input-group" >
+                                <label>长：</label>
+                                <input type="text" class="form-control col-sm-2" id="length">
+                                <label>宽：</label>
+                                <input type="text" class="form-control col-sm-2" id="width">
+                                <label>高：</label>
+                                <input type="text" class="form-control col-sm-2" id="height">
+                                <label>重量：</label>
+                                <input type="text" class="form-control col-sm-2" id="weight">
+                            </div><!-- /input-group -->
+
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+            <div class="modal-footer">
+                <button id="addNum" class="btn btn-default btn-sm" type="button">+</button>
+                <button type="button" class="btn btn-default"
+                        data-dismiss="modal">关闭
+                </button>
+                <button type="button" class="btn btn-primary">
+                    提交更改
+                </button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<form class="form-inline">
+    <label>输入行李的长宽高</label>
+    <div class="form-group">
+        <div class="col-sm-4">
+            <div class="row">
+                <div id="baggage" class="input-group" >
+                    <label>长：</label>
+                    <input type="text" class="form-control col-sm-2" id="length">
+                    <label>宽：</label>
+                    <input type="text" class="form-control col-sm-2" id="width">
+                    <label>高：</label>
+                    <input type="text" class="form-control col-sm-2" id="height">
+                    <label>重量：</label>
+                    <input type="text" class="form-control col-sm-2" id="weight">
+                </div><!-- /input-group -->
+            </div>
+        </div>
+    </div>
+</form>
+
+</body>
+</html>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function ()  {
+        var  MaxInputs        =  8; //maximum input boxes allowed
+        var InputsWrapper = $("#telNum"); //Input boxes wrapper ID
+        var AddButton = $("#addNum"); //Add button ID
+        var  x  =  InputsWrapper.length; //initlal text box count
+        var  FieldCount = 1; //to keep track of text box added
+
+        $(AddButton).click(function  (e)  //on add input button click
+        {
+            if (x <= MaxInputs) //max input box allowed
+            {
+                FieldCount++; //text box added increment
+                //add input box
+                $(InputsWrapper).after('<div id="telNum" class="input-group"><input type="password" class="form-control" id="exampleInputPassword1"><span class="input-group-btn"><button id="removeNum" class="btn btn-default btn-sm" type="button">-</button></span></div>');
+                x++; //text box increment
+            }
+            return  false;
+        });
+
+        $("body").on("click", "#removeNum",  function (e) { //user click on remove text
+            if ( x > 1 ) {
+                $(this).parent().parent('div').remove(); //获取当前元素的父元素的父元素的DIV并删除
+                x--; //decrement textbox
+            }
+            return  false;
+        })
+    });
+</script>

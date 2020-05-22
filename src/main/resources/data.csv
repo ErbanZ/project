@@ -1,0 +1,17 @@
+﻿PassengerType,PassengerLevel,Region,Cabin,length,width,height,weight
+TypeOne,Normal,Areaone,EconomyClass,100,50,30,20
+TypeOne,Normal,Areaone,EconomyClass,100,50,30,30
+TypeOne,Normal,Areaone,EconomyClass,100,30,20,30
+TypeOne,Normal,Areaone,EconomyClass,100,30,20,15
+TypeOne,Normal,Areaone,FirstClass,100,50,30,20
+TypeOne,Normal,Areaone,FirstClass,100,50,30,50
+TypeOne,Normal,Areaone,FirstClass,100,30,20,50
+TypeOne,Normal,Areaone,FirstClass,100,30,20,15
+TypeOne,Normal,Areaone,BusinessClass,100,50,30,15
+TypeOne,Normal,Areaone,BusinessClass,100,50,30,35
+TypeOne,Normal,Areaone,BusinessClass,100,30,20,35
+TypeOne,Normal,Areaone,BusinessClass,100,30,20,15
+TypeOne,Normal,Areaone,EnjoyEconomyClass,100,50,30,20
+TypeOne,Normal,Areaone,EnjoyEconomyClass,100,50,30,25
+TypeOne,Normal,Areaone,EnjoyEconomyClass,100,30,20,25
+TypeOne,Normal,Areaone,EnjoyEconomyClass,100,30,20,15

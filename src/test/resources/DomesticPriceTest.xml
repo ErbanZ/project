@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Custom suite">
+    <test verbose="2" name="DomesticPriceTest" annotations="JDK">
+        <classes>
+            <!-- 设置需要执行的class路径名-->
+            <class name="com.example.demo.test.CalDomesticPriceTest"/>
+        </classes>
+    </test>
+</suite>

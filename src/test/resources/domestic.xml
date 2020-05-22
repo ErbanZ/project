@@ -1,0 +1,4388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cases>
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-21.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>165.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-20.0-30.0-30.0</Baggage>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+		</Baggages>
+		<Price>675.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+		</Baggages>
+		<Price>420.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>210.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>675.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>675.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-23.0</Baggage>
+		</Baggages>
+		<Price>345.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+		</Baggages>
+		<Price>465.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+		</Baggages>
+		<Price>510.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+		</Baggages>
+		<Price>675.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-11.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+			<Baggage>23.0-31.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>795.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>195.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+			<Baggage>100.0-10.0-20.0-25.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-20.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>360.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-11.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+			<Baggage>40.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>1080.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>765.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>1140.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-20.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+		</Baggages>
+		<Price>60.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>570.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-11.0-36.0</Baggage>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>1275.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>345.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeOne</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>390.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+		</Baggages>
+		<Price>390.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+		</Baggages>
+		<Price>465.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>465.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>435.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>165.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+		</Baggages>
+		<Price>285.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>600.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>600.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-21.0</Baggage>
+		</Baggages>
+		<Price>165.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>165.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-20.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+			<Baggage>20.0-23.0-12.0-34.0</Baggage>
+		</Baggages>
+		<Price>1095.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>0.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-0.0-55.0-23.0</Baggage>
+			<Baggage>0.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-0.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-0.0</Baggage>
+			<Baggage>100.0-44.0-14.0-0.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>255.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>615.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>1065.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>1005.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-20.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+		</Baggages>
+		<Price>60.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>0.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-0.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-0.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-0.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+		</Baggages>
+		<Price>165.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>165.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>750.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>915.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>600.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>600.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>0.0-11.0-22.0-23.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>495.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-0.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>195.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-0.0-36.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>690.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-0.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>195.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+		</Baggages>
+		<Price>165.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-23.0</Baggage>
+		</Baggages>
+		<Price>195.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+		</Baggages>
+		<Price>360.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>1275.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>TypeTwo</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>195.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>345.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-11.0-36.0</Baggage>
+			<Baggage>100.0-12.0-11.0-36.0</Baggage>
+		</Baggages>
+		<Price>1080.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>345.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>840.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+		</Baggages>
+		<Price>615.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>615.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>585.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+		</Baggages>
+		<Price>435.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Normal</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>750.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>0.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-0.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-0.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-0.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-23.0</Baggage>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>570.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-37.0-36.0-31.0</Baggage>
+			<Baggage>100.0-45.0-34.0-45.0</Baggage>
+		</Baggages>
+		<Price>690.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-23.0-12.0-34.0</Baggage>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>735.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-11.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>90.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classOne</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+		</Baggages>
+		<Price>75.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>1545.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+			<Baggage>100.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>1620.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>285.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+		</Baggages>
+		<Price>135.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>1425.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>1425.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+			<Baggage>100.0-20.0-30.0-30.0</Baggage>
+			<Baggage>70.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>600.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classTwo</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-20.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-20.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>150.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-21.0-21.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-34.0-45.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-12.0-45.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>0.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-0.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-0.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-0.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-33.0-45.0</Baggage>
+		</Baggages>
+		<Price>375.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-11.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-11.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-54.0-54.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>16.0-56.0-23.0-35.0</Baggage>
+			<Baggage>0.0-44.0-14.0-36.0</Baggage>
+		</Baggages>
+		<Price>765.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>78.0-86.0-76.0-23.0</Baggage>
+		</Baggages>
+		<Price>45.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>45.0-45.0-45.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-78.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>67.0-67.0-67.0-21.0</Baggage>
+		</Baggages>
+		<Price>15.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>classThree</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>23.0-34.0-12.0-36.0</Baggage>
+		</Baggages>
+		<Price>240.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>11.0-56.0-16.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>55.0-55.0-55.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>39.0-13.0-13.0-41.0</Baggage>
+		</Baggages>
+		<Price>615.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-167.0-37.0-41.0</Baggage>
+		</Baggages>
+		<Price>615.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>45.0-23.0-12.0-39.0</Baggage>
+		</Baggages>
+		<Price>585.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>EconomyClass</Cabin>
+		<Baggages>
+			<Baggage>56.0-56.0-56.0-21.0</Baggage>
+		</Baggages>
+		<Price>315.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>89.0-56.0-11.0-29.0</Baggage>
+		</Baggages>
+		<Price>435.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>151.0-34.0-54.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-30.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-30.0</Baggage>
+		</Baggages>
+		<Price>450.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>FirstClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-20.0</Baggage>
+		</Baggages>
+		<Price>300.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-50.0</Baggage>
+		</Baggages>
+		<Price>750.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-50.0</Baggage>
+		</Baggages>
+		<Price>750.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-15.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>BusinessClass</Cabin>
+		<Baggages>
+			<Baggage>100.0-50.0-30.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-35.0</Baggage>
+		</Baggages>
+		<Price>525.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-30.0-20.0-15.0</Baggage>
+		</Baggages>
+		<Price>225.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>0.0-11.0-22.0-23.0</Baggage>
+		</Baggages>
+		<Price>345.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-0.0-55.0-23.0</Baggage>
+		</Baggages>
+		<Price>345.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-12.0-0.0-36.0</Baggage>
+		</Baggages>
+		<Price>540.0</Price>
+	</case>
+
+
+	<case>
+		<PassengerType>Null</PassengerType>
+		<PassengerLevel>Null</PassengerLevel>
+		<Region>AreaZero</Region>
+		<Cabin>Null</Cabin>
+		<Baggages>
+			<Baggage>100.0-44.0-14.0-0.0</Baggage>
+		</Baggages>
+		<Price>0.0</Price>
+	</case>
+</cases>
